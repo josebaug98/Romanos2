@@ -1,6 +1,6 @@
 # Romanos2
-Elaborado por: José Osmar Bautista García\n
-Correo:jose.baug98@gmail.com\n
+Elaborado por: José Osmar Bautista García
+Correo:jose.baug98@gmail.com
 
 Elaborar un programa en consola Java que convierta un número entero en un rango de 1 a 1000 introducido por el usuario a su representación en numeración romana, tomando en
 cuenta las siguientes reglas:
